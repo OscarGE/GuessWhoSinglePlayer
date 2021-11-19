@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/drawable-v24/seleccionado.xml" value="0.2703125" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/drawable/bgimage_border.xml" value="0.2703125" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/drawable/borde_tarjeta.xml" value="0.2703125" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/drawable/ic_rock.xml" value="0.2703125" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/drawable/seleccionado2.xml" value="0.184375" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout-v31/listitem_monsters.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/decideturn_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/doquestion_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/duelturn_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/listitem_attributes.xml" value="0.72" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/listitem_monsters.xml" value="0.536" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/listitem_monsterselect.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/listitem_monstersplayer2.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/qcategory_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/selectmonsters_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/turnmsg_dialog.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
