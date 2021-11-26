@@ -1,5 +1,6 @@
 package com.example.guesswhosingleplayer
 
+//Clase con los atributos de monstruo
 class Monster(
     val id: Int,
     val name: String,

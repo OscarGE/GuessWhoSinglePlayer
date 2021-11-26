@@ -8,6 +8,7 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
+//Para mostrar el RecyclerView con el deck de los atributos o categorías
 class AdaptadorAttributes(private val attributes: Attribute, private val itemType:Int,
                           private val clickListener: (Int) -> Unit):
     RecyclerView.Adapter<AdaptadorAttributes.AttributesViewHolder>() {
@@ -45,7 +46,6 @@ class AdaptadorAttributes(private val attributes: Attribute, private val itemTyp
         holder.bindAttribute(attribute!!)
         holder.itemView.setOnClickListener{clickListener(position)}
     }
-
     override fun getItemCount():Int {
         var size:Int? = null
         if(itemType==-1){//(-1) -> para las categorías

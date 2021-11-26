@@ -6,11 +6,8 @@ import android.content.Context
 import android.content.DialogInterface
 import android.os.Bundle
 import android.view.View
-import android.view.ViewGroup
-import android.view.WindowManager
 import android.widget.Button
 import android.widget.ImageView
-import androidx.appcompat.app.ActionBar
 import androidx.fragment.app.DialogFragment
 
 //dialog en el que se pide elegir entre piedra, papael o tijera

@@ -48,7 +48,5 @@ class AdaptadorMonsters(private val player: Player, private val itemType:Int,
         holder.bindMonster(monster,itemType)
         holder.itemView.setOnClickListener{clickListener(position)}
     }
-
     override fun getItemCount() = player.getMyDeck().size
-
 }

@@ -11,7 +11,9 @@
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/drawable/ic_rock.xml" value="0.2703125" />
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/drawable/seleccionado2.xml" value="0.184375" />
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout-v31/listitem_monsters.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/answercpu_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/cpuquestion_dialog.xml" value="0.16510416666666666" />
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/decideturn_dialog.xml" value="0.25" />
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/doquestion_dialog.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/duelturn_dialog.xml" value="0.25" />
@@ -19,7 +21,11 @@
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/listitem_monsters.xml" value="0.536" />
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/listitem_monsterselect.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/listitem_monstersplayer2.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/listitem_questions.xml" value="0.25" />
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/qcategory_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/questionslist_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/resolve_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/results_dialog.xml" value="0.25" />
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/selectmonsters_dialog.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/oscar/AndroidStudioProjects/GuessWhoSinglePlayer/app/src/main/res/layout/turnmsg_dialog.xml" value="0.25416666666666665" />
       </map>
